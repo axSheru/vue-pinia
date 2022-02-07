@@ -1,3 +1,8 @@
+# About
+
+In this project we use vite + pinia instead of vuex to manage the store of the project. We have a counter app to show the usability of this frameworks.
+
+
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
